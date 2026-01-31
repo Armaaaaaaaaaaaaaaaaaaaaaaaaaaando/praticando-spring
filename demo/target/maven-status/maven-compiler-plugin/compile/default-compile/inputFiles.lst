@@ -1,0 +1,11 @@
+/home/armando/Documentos/java/demo/src/main/java/projeto_simples/demo/DemoApplication.java
+/home/armando/Documentos/java/demo/src/main/java/projeto_simples/demo/controller/AnimalController.java
+/home/armando/Documentos/java/demo/src/main/java/projeto_simples/demo/doc/OpenApiConfig.java
+/home/armando/Documentos/java/demo/src/main/java/projeto_simples/demo/handler/BusinessException.java
+/home/armando/Documentos/java/demo/src/main/java/projeto_simples/demo/handler/GlobalExceptionHandler.java
+/home/armando/Documentos/java/demo/src/main/java/projeto_simples/demo/handler/ResponseError.java
+/home/armando/Documentos/java/demo/src/main/java/projeto_simples/demo/model/Animal.java
+/home/armando/Documentos/java/demo/src/main/java/projeto_simples/demo/model/Servico.java
+/home/armando/Documentos/java/demo/src/main/java/projeto_simples/demo/repository/AnimalRepository.java
+/home/armando/Documentos/java/demo/src/main/java/projeto_simples/demo/repository/ServicoRepository.java
+/home/armando/Documentos/java/demo/src/main/java/projeto_simples/demo/service/AnimalService.java

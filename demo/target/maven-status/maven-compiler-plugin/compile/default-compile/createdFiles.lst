@@ -1,0 +1,11 @@
+projeto_simples/demo/model/Servico.class
+projeto_simples/demo/model/Animal.class
+projeto_simples/demo/handler/BusinessException.class
+projeto_simples/demo/DemoApplication.class
+projeto_simples/demo/repository/ServicoRepository.class
+projeto_simples/demo/doc/OpenApiConfig.class
+projeto_simples/demo/handler/GlobalExceptionHandler.class
+projeto_simples/demo/controller/AnimalController.class
+projeto_simples/demo/service/AnimalService.class
+projeto_simples/demo/repository/AnimalRepository.class
+projeto_simples/demo/handler/ResponseError.class
